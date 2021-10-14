@@ -1,0 +1,5 @@
+
+
+
+const stringy= "boo"
+console.log(stringy.length)
